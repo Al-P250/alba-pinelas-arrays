@@ -6,3 +6,4 @@ print(lista)
 for i in range(len(lista)):
     if lista[i]%2==0:
         print(f"El número {lista[i]} es par y se encuentra en la posición {i}")
+
